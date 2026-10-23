@@ -60,6 +60,6 @@ Mi enfoque combina la ingeniería de datos, el modelado estadístico y la arquit
 
 ## 📬 Contacto & Redes
 
-* 💼 **LinkedIn:** ([https://linkedin.com/](https://www.linkedin.com/in/marcelowerner/))
+* 💼 **LinkedIn:** ([Linkedin Marcelo Javier Werner](https://www.linkedin.com/in/marcelowerner/))
 * 📧 **Email:** [marcelojavierwerner@gmail.com](mailto:marcelojavierwerner@gmail.com)
 * 🌐 **Studio:** SerWer Data Lab
