@@ -50,11 +50,11 @@ Mi enfoque combina la ingeniería de datos, el modelado estadístico y la arquit
 
 ## 📌 Proyectos Destacados (Pinned)
 
-* 📊 **[Análisis de Performance & Engagement](../analisis-instagram-fundacion-aprender-haciendo):** Procesamiento de datos, limpieza con Pandas y evaluación estadística de métricas de rendimiento para la *Fundación Aprender Haciendo*.
-* 🔌 **[REST API Architecture & Testing](../api-integration-and-testing):** Diseño de esquemas JSON, backend en Express.js y suite de pruebas de integración automatizadas con Postman/Newman.
-* ☁️ **[AWS Cloud Infrastructure Notes](../aws-cloud-infrastructure-notes):** Diseño de arquitectura de red privada (VPC, EC2, RDS) respaldado con mi certificación oficial *AWS Academy Graduate*.
-* 🗄️ **[Sistema de Gestión de Biblioteca](../sistema-gestion-biblioteca-postgres):** Modelado relacional, esquemas e integridad de datos en PostgreSQL.
-* 🧠 **[Fundamentos de Lógica y Algoritmos](../logica-y-algoritmos):** Colección de algoritmos, estructuras de datos, validaciones y POO en C++, JS, PHP y Python.
+* 📊 **[Análisis de Performance & Engagement](https://github.com/marcelojavierwerner/analisis-instagram-fundacion-aprender-haciendo):** Procesamiento de datos, limpieza con Pandas y evaluación estadística de métricas de rendimiento para la *Fundación Aprender Haciendo*.
+* 🔌 **[REST API Architecture & Testing](https://github.com/marcelojavierwerner/api-integration-and-testing):** Diseño de esquemas JSON, backend en Express.js y suite de pruebas de integración automatizadas con Postman/Newman.
+* ☁️ **[AWS Cloud Infrastructure Notes](https://github.com/marcelojavierwerner/aws-cloud-infrastructure-notes):** Diseño de arquitectura de red privada (VPC, EC2, RDS) respaldado con mi certificación oficial *AWS Academy Graduate*.
+* 🗄️ **[Sistema de Gestión de Biblioteca](https://github.com/marcelojavierwerner/sistema-gestion-biblioteca-postgres):** Modelado relacional, esquemas e integridad de datos en PostgreSQL.
+* 🧠 **[Fundamentos de Lógica y Algoritmos](https://github.com/marcelojavierwerner/logica-y-algoritmos):** Colección de algoritmos, estructuras de datos, validaciones y POO en C++, JS, PHP y Python.
 
 ---
 
