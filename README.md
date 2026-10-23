@@ -1,32 +1,65 @@
-## Marcelo Javier Werner
+# ¡Hola! Soy Marcelo Javier Werner 👋
 
-### Perfil profesional
+### 🚀 Data Scientist | Data Engineer | MLOps Enthusiast
+**SerWer Data Lab** | Mar del Plata, Argentina 🇦🇷
 
-Técnico Superior en Programación y estudiante de
-Licenciatura en Ciencia de Datos.
+---
 
-### Carta de presentación
+## 🎯 Sobre Mí
 
-Me dirijo a usted con el objetivo de presentar mi candidatura para oportunidades vinculadas al área de Ciencia de Datos. Mi interés surge de mi formación académica y 
-experiencia en el ámbito tecnológico, así como de mi motivación por continuar desarrollándome profesionalmente en un área que combina programación, análisis y 
-utilización estratégica de los datos para la toma de decisiones.
-Soy Técnico Superior en Programación y actualmente me encuentro cursando la Licenciatura en Ciencia de Datos. Cuento con conocimientos en Python, SQL, MySQL, PostgreSQL,
-análisis y visualización de datos, bases de datos, procesos ETL y herramientas de Business Intelligence. A lo largo de mi formación he trabajado con diferentes conjuntos
-de datos, realizando procesos de limpieza, transformación, análisis y obtención de información relevante. Además, mi experiencia en el ámbito tecnológico me ha permitido
-desarrollar capacidad de resolución de problemas, pensamiento lógico y adaptación a nuevas herramientas y tecnologías.
-Me interesa especialmente formar parte de una organización que valore la innovación, la tecnología y el uso de la información como herramientas para mejorar procesos y 
-generar nuevas oportunidades. Mi objetivo profesional es continuar creciendo en el campo de la Ciencia de Datos, aportando mis conocimientos en programación y análisis,
-mientras sigo adquiriendo experiencia en proyectos reales y en el trabajo interdisciplinario.
-Agradezco sinceramente el tiempo dedicado a considerar mi postulación. Quedo a disposición para ampliar cualquier información sobre mi perfil y para participar de una 
-entrevista en la que pueda conversar sobre mis conocimientos, experiencia y objetivos profesionales.
+Técnico Superior en Programación con una sólida trayectoria en tecnología, análisis de información y desarrollo de software. Actualmente continúo mi formación profesional cursando ultimas materias de la **Licenciatura en Ciencia de Datos** en la Universidad Siglo 21.
 
-### Tecnologías y conocimientos
+Mi enfoque combina la ingeniería de datos, el modelado estadístico y la arquitectura Cloud. Me especializo en transformar datos complejos en información estratégica para la toma de decisiones, construyendo pipelines de datos robustos y desplegando modelos a producción.
 
-- Python & C#
-- SQL
-- Unity
-- Excel Avanzado
-- Análisis de datos
-- Bases de datos
-- ETL
-- Business Intelligence
+* 🎓 **Formación Principal:** Licenciatura en Ciencia de Datos (Siglo 21) & Tecnicatura Superior en Programación (Teclab).
+* 📜 **Certificación Destacada:** AWS Academy Graduate - Cloud Foundations.
+* 🛡️ **Análisis Especializado:** Capacitación en *Sistemas de Recolección, Procesamiento y Análisis de Información Delictiva* (Ministerio de Seguridad / CAEEP).
+* 💡 **Intereses:** Data Engineering, MLOps, Modelado Predictivo, Analítica de Datos y Arquitectura Cloud.
+
+---
+
+## 🎓 Formación & Certificaciones Destacadas
+
+### 🏛️ Educación Formal & Superior
+* **Licenciatura en Ciencia de Datos** — *Universidad Siglo 21* (En curso)
+* **Tecnicatura Superior en Programación** — *Teclab Instituto Técnico Superior* (2022 - 2024)
+
+### 📜 Especializaciones & Cursos Técnicos
+* **Cloud Infrastructure:** AWS Academy Graduate - Cloud Foundations
+* **Data & Backend:** Full Stack Python — *Codo a Codo* (2023)
+* **Análisis de Información:** Recolección, Procesamiento y Análisis de Información Delictiva — *Ministerio de Seguridad de la Provincia de Buenos Aires / CAEEP* (2015)
+* **Game Development:** Specialization in Game Design & Development — *Michigan State University / Coursera* (2020) & Unity — *Codo a Codo* (2023)
+
+---
+
+## 🛠️ Stack Tecnológico & Herramientas
+
+### 📊 Ciencia de Datos & Analytics
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `Excel Avanzado`
+
+### 🗄️ Bases de Datos & Data Engineering
+`PostgreSQL` · `MySQL` · `SQL Server` · `Procesos ETL / ELT` · `Modelado Relacional`
+
+### ☁️ Cloud, MLOps & APIs
+`AWS (VPC, EC2, EBS, RDS)` · `APIs REST (Express.js / FastAPI)` · `Postman` · `Newman CLI`
+
+### 💻 Lenguajes & Fundamentos
+`Python` · `C#` · `C++` · `JavaScript` · `Git & GitHub`
+
+---
+
+## 📌 Proyectos Destacados (Pinned)
+
+* 📊 **[Análisis de Performance & Engagement](./analisis-instagram-fundacion-aprender-haciendo):** Procesamiento de datos, limpieza con Pandas y evaluación estadística de métricas de rendimiento para la *Fundación Aprender Haciendo*.
+* 🔌 **[REST API Architecture & Testing](./api-integration-and-testing):** Diseño de esquemas JSON, backend en Express.js y suite de pruebas de integración automatizadas con Postman/Newman.
+* ☁️ **[AWS Cloud Infrastructure Notes](./aws-cloud-infrastructure-notes):** Diseño de arquitectura de red privada (VPC, EC2, RDS) respaldado con mi certificación oficial *AWS Academy Graduate*.
+* 🗄️ **[Sistema de Gestión de Biblioteca](./sistema-gestion-biblioteca-postgres):** Modelado relacional, esquemas e integridad de datos en PostgreSQL.
+* 🧠 **[Fundamentos de Lógica y Algoritmos](./logica-y-algoritmos):** Colección de algoritmos, estructuras de datos, validaciones y POO en C++, JS, PHP y Python.
+
+---
+
+## 📬 Contacto & Redes
+
+* 💼 **LinkedIn:** ([https://linkedin.com/](https://www.linkedin.com/in/marcelowerner/))
+* 📧 **Email:** [marcelojavierwerner@gmail.com](mailto:marcelojavierwerner@gmail.com)
+* 🌐 **Studio:** SerWer Data Lab
